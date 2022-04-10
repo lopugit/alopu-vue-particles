@@ -27,7 +27,7 @@
   "main": "src/vue-particles/index.js",
   "dependencies": {
     "particles.js": "^2.0.0",
-    "vue": "^2.2.6"
+    "vue": "2.5.17"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
